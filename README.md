@@ -14,19 +14,19 @@
   📚 Currently learning <strong>React Native and Express.</strong>
 </p>
 
-<p align="left">
-  💌 How to reach me: ⤵️
+<!--<p align="left">
+    💌 How to reach me: ⤵️
 </p>
 
 <div align="left">
-  <a href="https://t.me/tema_213" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram logo"/>
-  </a>
-  <a href="mailto:a.karpukhin9@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail logo"/>
-  </a>
+    <a href="https://t.me/tema_213" target="_blank">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram logo"/>
+    </a>
+    <a href="mailto:a.karpukhin9@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail logo"/>
+    </a>
 
-  <a href="https://www.linkedin.com/in/artem-karpukhin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"/>
-  </a>
-</div>
+    <a href="https://www.linkedin.com/in/artem-karpukhin/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"/>
+    </a>
+</div>-->
